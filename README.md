@@ -3,7 +3,11 @@
 <h2> Hi, I'm Javier Gaitan!</h2>
 
   </br>
-  Front end React   <a href="https://www.coderhouse.com/">Coder House</a> 
+  Front end Developer   <a href="https://www.coderhouse.com/">Coder House</a> 
+</em></p>
+
+
+  Full Stack Developer   <a href="https://www.soyhenry.com/">Henry</a> 
 </em></p>
 
 
