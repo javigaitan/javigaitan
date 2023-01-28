@@ -32,7 +32,8 @@ const javier = {
  
  <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=javigaitan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=javigaitan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <em></em>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javigaitan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
