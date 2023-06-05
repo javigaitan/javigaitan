@@ -27,8 +27,8 @@ Portafolios: <a href="https://portfoliogaitan.000webhostapp.com/">CLICK</a>
 ```javascript
 const javier = {
   country: "Argentina",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node],
+  front: [ REACT JS, JAVASCRIPT, HTML, CSS, SASS, BOOTSTRAP ],
+  back: [ NODE, EXPRESS, POSTGRESQL],
   skills: [leadership, teamwork, proactive]
 
 }
